@@ -38,7 +38,7 @@
 
 2002年9月28日
 
-[点此下载](https://github.com/Subways-Sun/subwayRelease/raw/master/Beijing/2002.9.28.png)
+[点此下载](https://github.com/Subways-Sun/subwayRelease/master/Beijing/2002.9.28.png)
 
 2003年1月28日
 
