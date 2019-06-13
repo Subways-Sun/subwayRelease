@@ -1,4 +1,4 @@
-[English Version](https://github.com/Subways-Sun/subwayRelease#beijing-subway-update-notes-en)
+[**English Version**](https://github.com/Subways-Sun/subwayRelease#beijing-subway-update-notes-en)
 # 北京地铁开通日志
 
 ## **2019年9月30日 *(计划中)***
