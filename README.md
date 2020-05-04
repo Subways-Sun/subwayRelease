@@ -1,19 +1,27 @@
 [**English Version**](https://github.com/Subways-Sun/subwayRelease#beijing-subway-update-notes-en)
 # 北京地铁开通日志
 
-## **2019年9月30日 *(计划中)***
+## **2019年12月28日**
 
-**大兴机场线 *(非最终命名)*** (草桥 -- 大兴机场)
+**7号线** ***东延*** (焦化厂 -- 环球度假区) *(环球度假区 暂缓开通)*
+
+**7号线** **双井** 开通
+
+**八通线** ***南延*** (土桥 -- 环球度假区) *(环球度假区 暂缓开通)
+
+## **2019年9月30日**
+
+**大兴机场线** ***一期*** (草桥 -- 大兴机场)
 
 ## **2018年12月30日**
 
-**6号线** **三期** (海淀五路居 -- 金安桥) *(苹果园 暂缓开通)*
+**6号线** ***三期*** (海淀五路居 -- 金安桥) *(苹果园 暂缓开通)*
 
 **6号线** **北运河东** 开通
 
 **7号线** **垡头** 开通
 
-**8号线** **三期 四期** (珠市口 -- 瀛海) *(大红门 暂缓开通)*
+**8号线** ***三期 四期*** (珠市口 -- 瀛海) *(大红门 暂缓开通)*
 
 **8号线** **中国美术馆** 开通
 
@@ -31,7 +39,7 @@
 
 **西郊线** (巴沟 -- 香山)
 
-**燕房线** **主线** (阎村东 -- 燕山)
+**燕房线** ***主线*** (阎村东 -- 燕山)
 
 ## **2016年12月31日**
 
@@ -39,27 +47,27 @@
 
 **15号线** **望京东** 开通
 
-**16号线** **一期** (西苑 -- 北安河) *(农大南路 暂缓开通)*
+**16号线** ***一期*** (西苑 -- 北安河) *(农大南路 暂缓开通)*
 
 ## **2015年12月26日**
 
 **8号线** **安德里北街** 开通
 
-**14号线** **中段** (金台路 -- 北京南站) *(平乐园, 陶然桥 暂缓开通)*
+**14号线** ***中段*** (金台路 -- 北京南站) *(平乐园, 陶然桥 暂缓开通)*
 
 **15号线** **大屯路东** 开通
 
-**昌平线** **二期** (南邵 -- 昌平西山口)
+**昌平线** ***二期*** (南邵 -- 昌平西山口)
 
 ## **2014年12月28日**
 
-**6号线** **二期** (草房 -- 潞城) *(通运门, 北运河东 暂缓开通)*
+**6号线** ***二期*** (草房 -- 潞城) *(通运门, 北运河东 暂缓开通)*
 
 **7号线** (北京西站 -- 焦化厂) *(双井, 垡头 暂缓开通)*
 
-**14号线** **东段** (金台路 -- 善各庄) *(朝阳公园, 高家园 暂缓开通)*
+**14号线** ***东段*** (金台路 -- 善各庄) *(朝阳公园, 高家园 暂缓开通)*
 
-**15号线** **二期西段** (望京西 -- 清华东路西口) *(大屯路东 暂缓开通)*
+**15号线** ***二期西段*** (望京西 -- 清华东路西口) *(大屯路东 暂缓开通)*
 
 ## **2014年2月15日**
 
@@ -67,9 +75,9 @@
 
 ## **2013年12月28日**
 
-**8号线** **昌八联络线** (回龙观东大街 -- 朱辛庄)
+**8号线** ***昌八联络线*** (回龙观东大街 -- 朱辛庄)
 
-**8号线** **二期南段** (鼓楼大街 -- 中国美术馆) *(中国美术馆 暂缓开通)*
+**8号线** ***二期南段*** (鼓楼大街 -- 中国美术馆) *(中国美术馆 暂缓开通)*
 
 ## **2013年12月21日**
 
@@ -77,41 +85,41 @@
 
 ## **2013年5月5日**
 
-**10号线** **二期剩余段** (西局 -- 首经贸)
+**10号线** ***二期剩余段*** (西局 -- 首经贸)
 
 **10号线** **角门东** 开通
 
-**14号线** **西段** (西局 -- 张郭庄) *(七里庄 暂缓开通)*
+**14号线** ***西段*** (西局 -- 张郭庄) *(七里庄 暂缓开通)*
 
 ## **2012年12月30日**
 
-**6号线** **一期** (海淀五路居 -- 草房)
+**6号线** ***一期*** (海淀五路居 -- 草房)
 
-**8号线** **二期南段** (北土城 -- 鼓楼大街) *(安德里北街 暂缓开通)*
+**8号线** ***二期南段*** (北土城 -- 鼓楼大街) *(安德里北街 暂缓开通)*
 
-**9号线** **二期** (北京西站 -- 国家图书馆) *(军事博物馆 暂缓开通)*
+**9号线** ***二期*** (北京西站 -- 国家图书馆) *(军事博物馆 暂缓开通)*
 
-**10号线** **二期** (劲松 -- 首经贸) (巴沟 -- 西局) *(角门东 暂缓开通)*
+**10号线** ***二期*** (劲松 -- 首经贸) (巴沟 -- 西局) *(角门东 暂缓开通)*
 
 ## **2011年12月31日**
 
-**8号线** **二期北段** (森林公园南门 -- 回龙观东大街)
+**8号线** ***二期北段*** (森林公园南门 -- 回龙观东大街)
 
-**9号线** **一期** (郭公庄 -- 北京西站)
+**9号线** ***一期*** (郭公庄 -- 北京西站)
 
-**15号线** **二期东段** (后沙峪 -- 俸伯)
+**15号线** ***二期东段*** (后沙峪 -- 俸伯)
 
 **房山线** **郭公庄** 开通
 
 ## **2010年12月30日**
 
-**4号线** **大兴线** (公益西桥 -- 天宫院)
+**4号线** ***大兴线*** (公益西桥 -- 天宫院)
 
 **13号线** **西二旗** 移站 *(向北移动150米)*
 
-**15号线** **一期** (望京西 -- 后沙峪) *(望京东 暂缓开通)*
+**15号线** ***一期*** (望京西 -- 后沙峪) *(望京东 暂缓开通)*
 
-**昌平线** **一期** (西二旗 -- 南邵)
+**昌平线** ***一期*** (西二旗 -- 南邵)
 
 **房山线** (郭公庄 -- 苏庄) *(郭公庄 暂缓开通)*
 
@@ -123,9 +131,9 @@
 
 ## **2008年7月19日**
 
-**8号线** **奥运支线** (北土城 -- 森林公园南门)
+**8号线** ***奥运支线*** (北土城 -- 森林公园南门)
 
-**10号线** **一期** (劲松 -- 巴沟)
+**10号线** ***一期*** (劲松 -- 巴沟)
 
 **机场快轨** (东直门 -- 北京首都国际机场)
 
@@ -139,23 +147,23 @@
 
 ## **2003年1月28日**
 
-**13号线** **东段** (霍营 -- 东直门)
+**13号线** ***东段*** (霍营 -- 东直门)
 
 ## **2002年9月28日**
 
-**13号线** **西段** (西直门 -- 霍营)
+**13号线** ***西段*** (西直门 -- 霍营)
 
 ## **2000年6月28日**
 
-**1号线** **连接** (西单 -- 天安门西)
+**1号线** ***连接*** (西单 -- 天安门西)
 
 ## **1999年9月28日**
 
-**1号线** **复八线** (天安门西 -- 四惠东)
+**1号线** ***复八线*** (天安门西 -- 四惠东)
 
 ## **1992年12月12日**
 
-**1号线** **延长** (复兴门 -- 西单)
+**1号线** ***延长*** (复兴门 -- 西单)
 
 ## **1987年12月24日**
 
@@ -175,15 +183,15 @@
 
 ## **1973年4月23日**
 
-**北京站专线** **延长** (苹果园 -- 古城)
+**北京站专线** ***延长*** (苹果园 -- 古城)
 
 ## **1971年11月7日**
 
-**北京站专线** **延长** (古城 -- 玉泉路)
+**北京站专线** ***延长*** (古城 -- 玉泉路)
 
 ## **1971年8月15日**
 
-**北京站专线** **延长** (玉泉路 -- 公主坟)
+**北京站专线** ***延长*** (玉泉路 -- 公主坟)
 
 ## **1971年1月15日**
 
@@ -191,15 +199,25 @@
 
 # Beijing Subway Update Notes (EN)
 
-## **September 30, 2019 *(Upcoming)***
+## **December 28, 2019**
 
-**Daxing Airport Line *(Name Uncertain)*** (Cao Qiao -- Daxing Airport)
+**Line 7** ***East Extension*** (Jiao Hua Chang -- Universal Resort) *(Exclude. Universal Resort)*
+
+**Line 7** **Shuang Jing** Opened
+
+**Batong Line** ***South Extension*** (Tu Qiao -- Universal Resort) *(Exclude. Universal Resort)*
+
+## **September 30, 2019**
+
+**Daxing Airport Line** (Cao Qiao -- Daxing Airport)
+
+**Rename:** Airport Express --> Capital Airport Express
 
 ## **December 30, 2018**
 
 **Line 6** ***Part 3*** (Haidian Wuluju -- Jin'an Qiao) *(Exclude. Pingguo Yuan)*
 
-**Line 6** **Beiyun He Dong (East)** Opened
+**Line 6** **Beiyun He Dong(E)** Opened
 
 **Line 7** **Fa Tou** Opened
 
@@ -217,17 +235,17 @@
 
 **Line S1** (Jin'an Qiao -- Shi Chang)
 
-**Fangshan Line** **Yancun Dong (East)** Opened
+**Fangshan Line** **Yancun Dong(E)** Opened
 
 **Xijiao Line** (Ba Gou -- Flagrant Hills)
 
-**Yanfang Line** ***Main Line*** (Yancun Dong (East) -- Yanshan)
+**Yanfang Line** ***Main Line*** (Yancun Dong(E) -- Yanshan)
 
 ## **December 31, 2016**
 
 **Line 14** **Chaoyang Park** Opened
 
-**Line 15** **Wangjing Dong (East)** Opened
+**Line 15** **Wangjing Dong(E)** Opened
 
 **Line 16** ***Part 1*** (Xi Yuan -- Bei'an He) *(Exclude. Nongda Nanlu)*
 
@@ -237,19 +255,19 @@
 
 **Line 14** ***Middle Part*** (Jintai Lu -- Beijing South Railway Station) *(Exclude. Pingle Yuan, Taoran Qiao)*
 
-**Line 15** **Datun Lu Dong (East)** Opened
+**Line 15** **Datun Lu Dong(E)** Opened
 
 **Changping Line** ***Part 2*** (Nan Shao -- Changping Xishankou)
 
 ## **December 28, 2014**
 
-**Line 6** ***Part 2*** (Cao Fang -- Lu Cheng) *(Exclude. Tongyun Men, Beiyun He Dong (East))*
+**Line 6** ***Part 2*** (Cao Fang -- Lu Cheng) *(Exclude. Tongyun Men, Beiyun He Dong(E))*
 
 **Line 7** (Beijing West Railway Station -- Jiaohua Chang) *(Exclude. Shuang Jing, Fa Tou)*
 
 **Line 14** ***East Part*** (Jintai Lu -- Shan'ge Zhuang) *(Exclude. Chaoyang Park, Gaojia Yuan)*
 
-**Line 15** ***Part 2 (West)*** (Wangjing Xi (West) -- Qinghua Donglu Xikou) *(Exclude. Datun Lu Dong (East))*
+**Line 15** ***Part 2 (West)*** (Wangjing Xi (West) -- Qinghua Donglu Xikou) *(Exclude. Datun Lu Dong(E))*
 
 ## **February 15, 2014**
 
@@ -257,7 +275,7 @@
 
 ## **December 28, 2013**
 
-**Line 8** ***CP-8 Connection*** (Huilongguan Dongdajie -- Zhuxin Zhuang)
+**Line 8** ***Changping-8 Connection*** (Huilongguan Dongdajie -- Zhuxin Zhuang)
 
 **Line 8** ***Part 2 (South)*** (Gulou Dajie -- National Art Museum) *(Exclude. National Art Museum)*
 
@@ -267,9 +285,9 @@
 
 ## **May 5, 2013**
 
-**Line 10** ***Part 2 Remain*** (Xi Ju -- Shoujingmao)
+**Line 10** ***Part 2 Remain*** (Xi Ju -- Shou Jing Mao)
 
-**Line 10** **Jiao Men Dong (East)** Opened
+**Line 10** **Jiao Men Dong(E)** Opened
 
 **Line 14** ***West Part*** (Xi Ju -- Zhangguo Zhuang) *(Exclude. Qili Zhuang)*
 
@@ -281,7 +299,7 @@
 
 **Line 9** ***Part 2*** (Beijing West Railway Station -- National Library) *(Exclude. Military Museum)*
 
-**Line 10** ***Part 2*** (Jin Song -- Shoujingmao) (Ba Gou -- Xi Ju) *(Exclude. Jiao Men Dong (East))*
+**Line 10** ***Part 2*** (Jin Song -- Shou Jing Mao) (Ba Gou -- Xi Ju) *(Exclude. Jiao Men Dong(E))*
 
 ## **December 31, 2011**
 
@@ -299,7 +317,7 @@
 
 **Line 13** **Xi'er Qi** Relocation *(Moved North 150m)*
 
-**Line 15** ***Part 1*** (Wangjing Xi (West) -- Housha Yu) *(Exclude. Wangjing Dong (East))*
+**Line 15** ***Part 1*** (Wangjing Xi(W) -- Housha Yu) *(Exclude. Wangjing Dong(E))*
 
 **Changping Line** ***Part 1*** (Xi'er Qi -- Nan Shao)
 
@@ -309,7 +327,7 @@
 
 ## **September 28, 2009**
 
-**Line 4** **(Gongyi Xi Qiao -- Anhe Qiao Bei (North))**
+**Line 4** (Gongyi Xi Qiao -- Anhe Qiao Bei(N))
 
 ## **July 19, 2008**
 
@@ -321,7 +339,7 @@
 
 ## **October 7, 2007**
 
-**Line 5** (Songjia Zhuang -- Tiantong Yuan Bei (North))
+**Line 5** (Songjia Zhuang -- Tiantong Yuan Bei(N))
 
 ## **December 27, 2003**
 
@@ -337,11 +355,11 @@
 
 ## **June 28, 2000**
 
-**Line 1** ***Connection*** (Xi Dan -- Tian'an Men Xi (West))
+**Line 1** ***Connection*** (Xi Dan -- Tian'an Men Xi(W))
 
 ## **September 28, 1999**
 
-**Line 1** ***Fu-Ba Line*** (Tian'an Men Xi (West) -- Si Hui Dong (East))
+**Line 1** ***Fu-Ba Line*** (Tian'an Men Xi (West) -- Si Hui Dong(E))
 
 ## **December 12, 1992**
 
